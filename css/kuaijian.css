@@ -1,0 +1,74 @@
+.kuajian_nr{width: 100%;background: #fffefb;}
+.kuajian_nr_zhong{width: 998px;background: #ffffff;border: 1px solid #e5e5e5;margin: 20px auto 0 auto;}
+.kuajian_nr_zhong_div1{width: 960px;height: 55px;border-bottom: 2px solid #e5e5e5;margin: 0 auto;line-height: 55px;}
+.kuajian_nr_zhong_div1 ul li{ position: relative; padding: 0 18px 0 18px; float: left;height: 55px;text-align: center;cursor: pointer;line-height: 55px;}
+.zibianse{font-size: 16px;color: #3c3c3c;display: inline-block;}
+.shuxianp{color: #d3d3d3;position: absolute;right: 0px;top: 0px;}
+.kuajian_nr_zhong_div1_2{font-size: 16px;color: #f3550f;}
+
+.kuajian_nr_zhong_div1 img{margin-top: -4px;margin-right: 3px;display: inline-block;}
+
+
+.activee{color: #f3550f;font-size: 16px;}
+.activee_li_{border-bottom: 2px solid #f3550f;}
+.kuajian_nr_zhong_div2_input1{margin-left: 33px; width: 143px;height: 36px;border: 1px solid #e5e5e5;border-radius: 4px;padding-left: 15px;
+font-size: 14px;color: #e5e5e5;outline: none;}
+.kuajian_nr_zhong_div2_input2{margin-left: 50px; width: 250px;height: 36px;border: 1px solid #e5e5e5;font-size: 14px;color: #e5e5e5;outline: none;
+padding-left: 15px;border-radius: 4px 0px 0 4px;}
+
+.kuajian_nr_zhong_div2_span1{margin-left: -4px;border: 1px solid #e5e5e5; border-left: none;font-size: 14px;color: #7c7c7c; display: inline-block; width: 98px;height: 36px;background: #fafafa;text-align: center;line-height: 36px;}
+.kuajian_nr_zhong_div2_span2{font-size: 14px;color: #448ef3;display: inline-block;margin-left: 15px;}
+.kuajian_nr_zhong_div2{margin-top: 19px;}
+.ossoosos{display: inline-block;width: 95px;height: 38px;font-size: 14px;background: #389c44;line-height: 38px;text-align: center;
+border-radius: 4px;color: #fff;margin-left: 27px;}
+.kuajian_nr_zhong_div3_input1,.kuajian_nr_zhong_div3_input2{width: 123px;height: 36px; border: 1px solid #e5e5e5;border-radius: 4px;padding-left: 15px;font-size: 14px;color: #e5e5e5;outline: none;}
+.kuajian_nr_zhong_div3_input3,.kuajian_nr_zhong_div3_input4{font-size: 14px;color: #3c3c3c; width: 123px;height: 36px;border: 1px solid #e5e5e5;border-radius: 4px;padding-left: 15px;outline: none;}
+.kuajian_nr_zhong_div3_input4{margin-left: 3px;}
+.kuajian_nr_zhong_div3{margin-top: 20px;}
+
+.kuajian_nr_zhong_div4{width: 960px;margin: 17px auto 0 auto;}
+.k_tr1_th1{width: 200px;}
+.k_tr1{height:40px!important;}
+.k_tr1_th2{width: 68px;}
+.k_tr1_th3{width: 208px;}
+.k_tr1_th4{width: 120px;}
+.k_tr1_th5{width: 92px;}
+.k_tr1_th6{width: 146px;}
+.k_tr1_th7{width: 120px;}
+.k_tr1 th{background: #f5f4f2;color: #3c3c3c;font-size: 14px;font-weight: normal!important;}
+.k_tr1 th:not(.meixian){border-left: 1px solid #e5e5e5;}
+.k_tr1_td1{border: none;}
+.k_tr1_td1{padding: 0px 0px 0px 20px;}
+
+.k_tr1_td2{height: 95px;background: #fffefb;border-bottom: 1px solid #e5e5e5;}
+.k_tr1_td1_span1{float: left;margin-top: 15px;}
+.k_tr1_td1_span2{float:left;margin-left: 5px;font-size: 12px;color: #000000;}
+.k_tr1_td2{ font-size: 12px;color: #000000;padding-left: 23px;}
+.k_tr1_td2 td:not(.meixian1){border-left: 1px dashed #e5e5e5;}
+.k_tr1_td3{padding-left: 28px;}
+.k_tr1_td4{padding-left: 28px;}
+.k_tr1_td5{padding-left: 28px;}
+.k_tr1_td6{padding-left: 28px;}
+
+.k_tr1_td7_span1{width: 72px;height: 28px;display: inline-block;background: #fff9f0;border-radius: 4px;text-align: center;line-height: 28px;
+font-size: 12px;color: #f47145;margin-left: 23px;cursor: pointer;}
+.k_tr1_td7_span2{font-size: 12px;color: #7c7c7c;margin: 10px 0 0 37px;display: inline-block;cursor: pointer;}
+.k_tr1_td2_se{background: #fff;}
+
+
+.wuliu_xinxi{background: #f8f8f8;color: #3c3c3c;}
+.wuliu_hover{width: 269px;height: 223px;border-radius: 4px;border: 1px solid #f3550f;position: absolute;top: 54px;left: -75px;
+background: #ffffff;}
+
+.wuliu_hover_span1{width: 240px;height: 40px;border-bottom: 1px solid #e5e5e5;line-height: 40px;display: inline-block;
+margin: -13px 0 0 13px;text-indent: 7px;font-size: 12px;color: #7c7c7c;}
+.yuan_123{width: 5px;height: 5px;background: black;border-radius: 50%;display: inline-block;position: relative;top: -2px;}
+.wuliu_hover p{margin-left: 19px;margin-top: 10px;width: 240px;}
+
+
+.kuajian_nr_zhong_div4 .accc{background: #f79e21;color: #fff;}
+
+
+.k_tr1_td7_span1{border: 1px solid #ffceb9;}
+.wuliuxinx_border{border: 1px solid #e4e4e4;}
+.kuajian_nr_zhong_div4 table tr:hover{cursor: pointer;}

@@ -1,0 +1,40 @@
+.guk_nr_zhong{width: 1000px;padding-bottom: 230px; background: #fff;margin: 0 auto;overflow: hidden;}
+.guk_nr{width: 100%;background: #fffefb;}
+.guk_nr_zhong_div1{width: 998px;background: #e2f8d1;height: 103px;border: 1px solid #a0cca5;
+	border-bottom: 2px solid #a0cca5; margin-top: 20px;}
+.spanw{color: #1e7c29;font-size: 20px;margin-top: 22px;display: inline-block;margin-left: 5px;}
+.spanl{font-size: 14px;color:#3c3c3c;margin-left: 80px;}
+.jijianjine{font-size: 14px;color: #3c3c3c；}
+.jijijiji{font-size: 26px;color: #f3550f;}
+.baoqian{float: right;width: 215px;height: 30px;margin-top: -30px;}
+.guk_nr_zhong_div2{width: 980px;height: 95px;border-bottom: 1px solid #e5e5e5;margin: 0 auto;}
+.guk_nr_zhong_div2_spanhou{font-size: 14px;color: #448ef3;float: right;margin-top: 46px;margin-right: 15px;}
+.guk_nr_zhong_div2_span1{font-size: 18px;color: #3c3c3c;display: inline-block;margin:30px 0 0 30px;}
+.footer_dan_zhong ul li{float: left;margin: ;}
+.footer_dan_zhong{/*background: red;*/margin-top: 20px;text-align: center;margin-top: 38px;}
+.guk_nr_zhong_div3{width: 1000px;height: 83px;}
+.guk_nr_zhong_div3 span{display: inline-block; width:200px;height: 42px;font-size: 18px;color: #fff;text-align: center;line-height: 42px;
+background: #389c44;float: right;margin:20px 25px 0 0;}
+.footer_dan_zhong ul{margin-left: 300px;}
+.footer_dan_zhong ul li a{font-size: 14px;color: #3c3c3c;}
+.footer_btoom {font-size: 14px;color: #3c3c3c;margin-top: 2px;}
+.footer_dan_zhong ul span{padding: 0 13px 0 13px}
+.border_jia{border:1px solid #e5e5e5;border-top: none;}
+
+
+
+/*付款失败的页面*/
+.shibai{width: 100%;background: #fffefb;padding-bottom: 200px;}
+
+.shibai_zhong{width: 1000px;background: #fffefb;margin: 0 auto;overflow:hidden;}
+.shibai_zhong_div1{width: 998px;height: 220px;border: 1px solid #e5e5e5;margin-top: 20px;background: #fff;}
+.shibai_zhong_div1_left{height:90px;margin: 64px 0 0 57px;float: left;}
+.shibai_zhong_div1_right{width: 200px;height: 42px;color: #fff;background: #f79e21;line-height: 42px;text-align: center;
+float: right;font-size: 16px;border-radius: 4px;margin: 80px 125px 0 0 ;}
+
+
+.footer_dan_zhong ul li a:hover{color: #389c44;}
+.footer_btoom .yibaijia1:hover{color: #389c44!important;}
+.footer_btoom a{font-size: 14px;color: #a1a1a1;}
+.footer_left ul li a:hover{color: #389c44;}
+.footer_right span a:hover{color: #389c44;}

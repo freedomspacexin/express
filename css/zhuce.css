@@ -1,0 +1,16 @@
+.zhuce_bg{width: 100%;background: #fffefb;}
+.zhuce_zhong{width: 1000px;padding-bottom: 54px; background: #fffefb;margin:0 auto;overflow: hidden;}
+.zhuce_zhong h4{font-size: 24px;color: #3c3c3c;margin: 60px auto 0 auto;width: 176px;text-align: center;}
+.zhuce_zhong span{font-size: 14px;color: #535353;}
+.zhuce_zhong i{color: #ec1b23;font-size: 14px;font-style: normal;}
+.zhuce_zhong input{ height: 40px;border: 1px solid #dddddd;border-radius: 4px;background: #fff; 
+padding-left: 20px;}
+.zhuce_zhong .zhu_span1{width: 135px;height: 42px;background: #f79e21;font-size: 14px;
+	text-align: center;line-height: 42px;display:inline-block;border-radius: 4px;cursor: pointer;}
+.zhuce_zhong .zhu_span2{width: 135px;height: 42px;background: #cdcdcd;font-size: 14px;
+	text-align: center;line-height: 42px;display:inline-block;border-radius: 4px;cursor: pointer;}
+.zhuce_bottom_span1{font-size: 12px;color: #535353;}
+.zhuceanniu{width: 300px;height: 42px;background: #389c44;color: #fff;border-radius: 4px;text-align: center;
+line-height: 42px;box-shadow: 0px 3px 3px #1e7c29;font-size: 18px;margin-top: 27px;cursor: pointer;}
+.zhu_span_left{display: inline-block;width: 353px;text-align: right;}
+.zhuce_bottom{width: 300px;height: 90px;margin: 0 auto;margin-top: 18px;}
